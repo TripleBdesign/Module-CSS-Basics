@@ -1,0 +1,23 @@
+body {
+  color: red;
+}
+
+.black-border {
+  border: 5px solid black;
+}
+
+#green-background {
+  background-color: green;
+}
+
+.fancy {
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#fuchsia-background {
+    background-color: rgb(197, 8, 125);
+    color: white
+  }
